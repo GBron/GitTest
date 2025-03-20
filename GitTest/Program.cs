@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            string test = "테스트입니다";
-            string test2 = "테스트입니다2";
+            string test = "텍스트 수정";
+            string test2 = "텍스트 수정2";
             Console.WriteLine(test);
             Console.WriteLine(test2);
         }
